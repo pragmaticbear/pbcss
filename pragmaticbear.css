@@ -2,3 +2,6 @@ label[id^="label"] {
     font-weight: bold !important;
     color: #ffffff !important;
 }
+h3 {
+    color: yellow;
+}
