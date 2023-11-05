@@ -1,4 +1,4 @@
-label > span {
+label[id*="label-"] {
     font-weight: bold !important;
     color: #ffffff !important;
 }
