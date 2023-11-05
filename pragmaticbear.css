@@ -3,5 +3,5 @@ label[id^="label"] {
     color: #ffffff !important;
 }
 h3 {
-    color: yellow;
+    color: yellow !important;
 }
