@@ -1,4 +1,4 @@
-label[id*="label-"] label:not(.hs-error-msg) {
+label[id^="label"] {
     font-weight: bold !important;
     color: #ffffff !important;
 }
